@@ -1,0 +1,11 @@
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+.card-image {
+    height: 250px; /* Your height here */
+    overflow: hidden;
+}
+
+/* this is the part where you can change and fix size in the website style of the web page depends in here
